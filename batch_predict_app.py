@@ -1,4 +1,3 @@
-from my_transformers import MyTransformer
 import streamlit as st
 import joblib
 import pandas as pd
